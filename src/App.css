@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.App{
+    background-color: lightgray;
+    height: 100vh;
+    min-height: auto;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.budget-calculator{
+    background-color: #fff;
+    width: 900px;
+    min-height: 300px;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+.total{
+    background-color: red;
+    padding: 5px;
+    color: #fff;
+}

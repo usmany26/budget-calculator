@@ -1,0 +1,31 @@
+.exp__container{
+    width: 80%;
+    border: 1px solid rgb(202, 201, 201);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+}
+
+.item__expense{
+    background-color: red;
+    color: #fff;
+    padding: 2px;
+}
+
+.exp__icon{
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.pen{
+    color: green;
+}
+
+.del{
+    color: red;
+}
+
+.clear{
+    color: #fff;
+}
